@@ -22,13 +22,13 @@ This project is designed to showcase how robust scraping + a modern data platfor
 
 - Streamlit-powered dashboard:
 
-📌 Current price snapshot
+  - 📌 Current price snapshot
 
-📊 Price history charts
+  - 📊 Price history charts
 
-🔍 Latest scraped entries
+  - 🔍 Latest scraped entries
 
-🤖 LLM-powered Q&A panel for price insights
+  - 🤖 LLM-powered Q&A panel for price insights
 
 - Modular architecture — easy to extend to new cities, routes, or providers
 
