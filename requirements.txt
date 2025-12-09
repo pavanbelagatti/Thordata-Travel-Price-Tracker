@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+pandas
+streamlit
+SQLAlchemy
+pymysql
+python-dotenv
+
+langchain-openai
+openai
+
+playwright
+playwright-stealth
