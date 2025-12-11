@@ -1,4 +1,4 @@
-# 🌍 [Thordata](https://www.thordata.com/) Travel Price Tracker
+# 🌍 [Thordata](https://github.com/pavanbelagatti/Thordata-Travel-Price-Tracker) Travel Price Tracker
 
 A real-world travel price tracking pipeline that scrapes:
 
@@ -8,7 +8,7 @@ A real-world travel price tracking pipeline that scrapes:
 
 - 🚗 Rental cab prices (Gozo Cabs routes)
 
-…using [Thordata residential proxies](https://www.thordata.com/products/residential-proxies), stores everything in SingleStore, and visualises it in a Streamlit dashboard with a small LLM-powered assistant.
+…using [Thordata residential proxies](https://github.com/pavanbelagatti/Thordata-Travel-Price-Tracker), stores everything in SingleStore, and visualises it in a Streamlit dashboard with a small LLM-powered assistant.
 
 This project is designed to showcase how robust scraping + a modern data platform + a simple UI can form the backbone for future Agentic AI / travel automation workflows.
 
@@ -36,7 +36,7 @@ This project is designed to showcase how robust scraping + a modern data platfor
 
 - Python 3.11+
 
-- [Thordata proxy credentials](https://www.thordata.com/products/residential-proxies)
+- [Thordata proxy credentials](https://github.com/pavanbelagatti/Thordata-Travel-Price-Tracker)
 
 - SingleStore database (Helios free tier is enough)
 
@@ -183,4 +183,4 @@ This ensures consistent, production-grade data ingestion, enabling future Agenti
 
 - Multi-agent itinerary planners
 
-[Sign up to Thordata](https://dashboard.thordata.com/register) and start using their powerful proxies. 
+[Sign up to Thordata](https://github.com/pavanbelagatti/Thordata-Travel-Price-Tracker) and start using their powerful proxies. 
